@@ -1,0 +1,26 @@
+---------- insert ----------
+Total visitor details entered: 7
+----------------------------
+---------- findvisitor ----------
+1 visitors with name Amar found visiting on 12-Dec-2020 
+Amar Pandey, agra, 8234121343
+---------------------------------
+
+---------- visitorCount: ----------
+0 visitors found visiting on 12-Jan-2020
+---------------------------------
+---------- findvisitor ----------
+0 visitors with name Radha found visiting on 12-Dec-2020 
+---------------------------------
+
+---------- birthdayVisitor: ----------
+5 visitors have upcoming birthdays between 12-Jan and 19-Jan
+Amar Pradhan, 12-Jan-2008, 9892342134
+Prasad Murthy, 14-Jan-2002, 9123123210
+Radha R, 17-Jan-1998, 9812310112
+Anju George, 13-Jan-1995, 8891231231
+Giri Prakash, 13-Jan-2005, 9234212323
+---------------------------------
+---------- findvisitor ----------
+0 visitors with name Anju found visiting on 12-Dec-2020 
+---------------------------------
